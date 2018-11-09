@@ -7,6 +7,7 @@ public class Main {
         int l_int = 0;
         NewIF myRef = new NewClass();
         myRef.run( l_int );
+
         System.out.println("Hello Git!");
     }
 }
